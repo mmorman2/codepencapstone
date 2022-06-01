@@ -1,0 +1,33 @@
+.bottom-left-heading {
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+
+.left-heading-btn {
+    background-color: #43c171;
+    border: 1px #389c5c;
+    border-radius: 7px;
+    outline: none;
+    padding: 10px 25px;
+    height: 70px;
+    width: 250px;
+    font-size: x-large;
+}
+
+.right-heading-btn {
+    color: white;
+    background-color: #1b1d1c;
+    border: 1px #1b1d1c;
+    border-radius: 7px;
+    outline: none;
+    padding: 10px 25px;
+    height: 70px;
+    width: 200px;
+    font-size: x-large;
+}
+
+.bottom-right-heading {
+    margin-top: -70px;
+    margin-left: 375px;
+}

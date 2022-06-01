@@ -1,0 +1,140 @@
+.header {
+    background-color: black;
+    height: 90px;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.header>.banner-image img {
+    height: 70px;
+    width: 250px;
+    padding: 15px;
+}
+
+.explore-wrapper {
+    padding-top: 25px;
+    padding-left: 60px;
+}
+
+.explore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+    width: 550px;
+    height: 100%;
+    flex-direction: column;
+    text-align: start;
+}
+
+.explore h1 {
+    color: #cea135;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: left;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.pens-wrapper h2 {
+    color: aliceblue;
+    font-size: large;
+    margin-top: -30px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.center-column {
+    width: 400px;
+    height: 100%;
+
+}
+
+.center-column>.explore p {
+    color: white;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: larger;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: start;
+}
+
+.spark-menu {
+
+    display: flex;
+    color: gray;
+    font-size: large;
+    width: 100px;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 45px;
+    font-family: 'Roboto Condensed',
+        sans-serif;
+}
+
+.spark-menu i {
+    display: flex;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+
+.create-menu {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 300px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.create-btn {
+    background-color: rgb(65, 65, 65);
+    color: white;
+    border: 1px grey;
+    border-radius: 7px;
+    outline: none;
+    padding: 10px 25px;
+    height: 40px;
+    font-size: large;
+}
+
+.create-menu i {
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(15, 122, 31);
+}
+
+.search-icon {
+    display: flex;
+    padding-left: 50px;
+    padding-top: 10px;
+    color: gray;
+    font-size: xx-large;
+}
+
+.login-btn {
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.signup-btn {
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
